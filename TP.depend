@@ -1,0 +1,171 @@
+# depslib dependency file v1.0
+1623539786 source:c:\users\carol\desktop\trabalhopratico_jogosemaforo\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	"Jogo.h"
+	"utils.h"
+	"opcoes.h"
+
+1623514312 c:\users\carol\desktop\trabalhopratico_jogosemaforo\jogo.h
+	"funcoes_jogos.h"
+
+1623539071 source:c:\users\carol\desktop\trabalhopratico_jogosemaforo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"opcoes.h"
+	"utils.h"
+	"jogo.h"
+
+1623514312 c:\users\carol\desktop\trabalhopratico_jogosemaforo\opcoes.h
+	"Jogo.h"
+	"funcoes_jogos.h"
+
+1618822452 c:\users\carol\desktop\trabalhopratico_jogosemaforo\utils.h
+
+1623409591 c:\users\carol\desktop\trabalhopratico_jogosemaforo\tabuleiro.h
+
+1623350736 source:c:\users\carol\desktop\trabalhopratico_jogosemaforo\menus.c
+	<stdio.h>
+	<stdlib.h>
+	"Menus.h"
+
+1623347979 c:\users\carol\desktop\trabalhopratico_jogosemaforo\menus.h
+
+1623411226 source:c:\users\carol\desktop\trabalhopratico_jogosemaforo\tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	"Tabuleiro.h"
+
+1623204306 source:c:\users\carol\desktop\trabalhopratico_jogosemaforo\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utils.h"
+
+1623518662 source:c:\users\carol\desktop\trabalhopratico_jogosemaforo\opcoes.c
+	<stdio.h>
+	<stdlib.h>
+	"opcoes.h"
+	"Jogo.h"
+
+1623539421 c:\users\carol\desktop\trabalhopratico_jogosemaforo\funcoes_jogos.h
+
+1623539614 source:c:\users\carol\desktop\trabalhopratico_jogosemaforo\funcoes_jogos.c
+	<stdio.h>
+	<stdlib.h>
+	"Jogo.h"
+	"utils.h"
+	"opcoes.h"
+
+1623600731 source:c:\users\carol\desktop\trabalhopratico_jogosemaforo_v5\funcoes_jogos.c
+	<stdio.h>
+	<stdlib.h>
+	"Jogo.h"
+	"utils.h"
+	"opcoes.h"
+	"historico.h"
+
+1623593962 c:\users\carol\desktop\trabalhopratico_jogosemaforo_v5\jogo.h
+	"funcoes_jogos.h"
+
+1623597712 c:\users\carol\desktop\trabalhopratico_jogosemaforo_v5\funcoes_jogos.h
+	"historico.h"
+
+1618822452 c:\users\carol\desktop\trabalhopratico_jogosemaforo_v5\utils.h
+
+1623514312 c:\users\carol\desktop\trabalhopratico_jogosemaforo_v5\opcoes.h
+	"Jogo.h"
+	"funcoes_jogos.h"
+
+1623599508 source:c:\users\carol\desktop\trabalhopratico_jogosemaforo_v5\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	"Jogo.h"
+	"utils.h"
+	"opcoes.h"
+
+1623547240 source:c:\users\carol\desktop\trabalhopratico_jogosemaforo_v5\opcoes.c
+	<stdio.h>
+	<stdlib.h>
+	"opcoes.h"
+	"Jogo.h"
+
+1623204306 source:c:\users\carol\desktop\trabalhopratico_jogosemaforo_v5\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utils.h"
+
+1623598197 source:c:\users\carol\desktop\trabalhopratico_jogosemaforo_v5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"opcoes.h"
+	"utils.h"
+	"jogo.h"
+
+1623597419 c:\users\carol\desktop\trabalhopratico_jogosemaforo_v5\historico.h
+
+1623597335 source:c:\users\carol\desktop\trabalhopratico_jogosemaforo_v5\historico.c
+	<stdio.h>
+	<stdlib.h>
+	"Jogo.h"
+	"utils.h"
+	"opcoes.h"
+	"historico.h"
+
+1623628287 source:c:\users\carol\desktop\prog_carolinaferreira_2018018459\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	"Jogo.h"
+	"utils.h"
+	"opcoes.h"
+
+1623611271 c:\users\carol\desktop\prog_carolinaferreira_2018018459\jogo.h
+	"funcoes_jogos.h"
+
+1623611121 c:\users\carol\desktop\prog_carolinaferreira_2018018459\funcoes_jogos.h
+	"historico.h"
+
+1623622386 c:\users\carol\desktop\prog_carolinaferreira_2018018459\historico.h
+
+1618822452 c:\users\carol\desktop\prog_carolinaferreira_2018018459\utils.h
+
+1623514312 c:\users\carol\desktop\prog_carolinaferreira_2018018459\opcoes.h
+	"Jogo.h"
+	"funcoes_jogos.h"
+
+1623598197 source:c:\users\carol\desktop\prog_carolinaferreira_2018018459\main.c
+	<stdio.h>
+	<stdlib.h>
+	"opcoes.h"
+	"utils.h"
+	"jogo.h"
+
+1623204306 source:c:\users\carol\desktop\prog_carolinaferreira_2018018459\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utils.h"
+
+1623627201 source:c:\users\carol\desktop\prog_carolinaferreira_2018018459\historico.c
+	<stdio.h>
+	<stdlib.h>
+	"Jogo.h"
+	"utils.h"
+	"opcoes.h"
+	"historico.h"
+
+1623611271 source:c:\users\carol\desktop\prog_carolinaferreira_2018018459\opcoes.c
+	<stdio.h>
+	<stdlib.h>
+	"opcoes.h"
+	"Jogo.h"
+
+1623630417 source:c:\users\carol\desktop\prog_carolinaferreira_2018018459\funcoes_jogos.c
+	<stdio.h>
+	<stdlib.h>
+	"Jogo.h"
+	"utils.h"
+	"opcoes.h"
+	"historico.h"
+
